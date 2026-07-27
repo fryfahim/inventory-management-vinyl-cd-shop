@@ -1,0 +1,15 @@
+# Compiled Java output
+bin/
+*.class
+
+# Eclipse metadata
+.settings/
+
+# Sensitive / local user data
+userCredentials.txt
+userEmails.txt
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
