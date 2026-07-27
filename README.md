@@ -1,6 +1,6 @@
 # Inventory Management and Billing — Vinyl & CD Shop
 
-A Java Swing desktop application for managing inventory and billing at a vinyl record and CD shop. Built as a CSE215 (Object-Oriented Programming) course project at North South University (Summer 2023).
+A Java Swing desktop application for managing inventory and billing at a vinyl record and CD shop.
 
 ## Features
 
@@ -25,7 +25,3 @@ Open the folder as a project in Eclipse and run `GUItest.java`, or from the comm
 javac -d bin src/*.java
 java -cp bin GUItest
 ```
-
-## Author
-
-Md Fahim Khan
